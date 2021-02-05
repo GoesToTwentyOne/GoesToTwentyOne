@@ -7,8 +7,7 @@
 </head>
 <body>
     <h1>I'm Md.Nihad Hossain</h1>
-    - ⚡ Fun fact: ...Golang
-  
+    
     <h1>About me</h1>
   
     
@@ -21,6 +20,7 @@
 - 😄 Pronouns: ...Golang
 
 - 🌱 Golang coding is my habit
+  - ⚡ Fun fact: ...Golang
 
 
     
