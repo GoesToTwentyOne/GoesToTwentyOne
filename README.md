@@ -7,11 +7,12 @@
 </head>
 <body>
     <h1>I'm Md.Nihad Hossain</h1>
+    - 🌱 Golang coding is my habit.
+    <h1>About me</h1>
+  
     
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...Golang
-- 🌱 I’m currently learning ...Golang
+
 - 👯 I’m looking to collaborate on ...Golang
 - 🤔 I’m looking for help with ...Golang
 - 💬 Ask me about ...Golang
