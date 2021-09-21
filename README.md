@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>I'm Md. Nihad Hossain</h1>
-    <h1>[Md.Nihad Hossain Linkedin 500++ connection](https://en.wikipedia.org/wiki/Same-origin_policy)</h1>
+    <h1>[Md.Nihad Hossain Linkedin 500++ connection](https://www.linkedin.com/in/md-nihad-h-5568b51a3/)</h1>
 </body>
 </html>
 
