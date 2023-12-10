@@ -11,9 +11,9 @@ Jr. Backend Engineer, passionate about Golang, aiming to become proficient. Visi
 
 - [LinkedIn (1.5k+ connections)](https://www.linkedin.com/in/md-nihad-h-5568b51a3/)
 - [Portfolio](https://nihadgo00075.pythonanywhere.com/)
-- [Codeforce Profile](https://codeforces.com/profile/nihadgo75)
-- [Codewars Profile](https://www.codewars.com/users/nihadgo)
-- [Codecademy Profile (55 Badges)](https://www.codecademy.com/profiles/nihadgo)
+- [Codeforce](https://codeforces.com/profile/nihadgo75)
+- [Codewars](https://www.codewars.com/users/nihadgo)
+- [Codecademy(60 Badges)](https://www.codecademy.com/profiles/nihadgo)
 
 * * *
 
