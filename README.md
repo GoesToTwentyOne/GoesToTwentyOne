@@ -7,6 +7,7 @@
 <body>
     <h1>I'm Md. Nihad Hossain</h1>
     <h1>BAUSTian<h1>
+    <h6>Proud student of the esteemed Army Backend institution, where excellence meets discipline, shaping leaders of tomorrow. </h6>
     <h6>[Md.Nihad Hossain Linkedin 1.5k+ connections](https://www.linkedin.com/in/md-nihad-h-5568b51a3/)</h6>
     <h6>[Md.Nihad Hossain Portfolio](https://nihadgo00075.pythonanywhere.com/)</h6>
     <h6>[Md. Nihad Hossain https://www.codewars.com/users/nihadgo]
